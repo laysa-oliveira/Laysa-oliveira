@@ -8,6 +8,7 @@
 
 - 👩‍🔬quero cursar biomedicina;
 
+_hobbies:_
 - 🐚amo praia;
 
 - 🍨gosto de açaí;
